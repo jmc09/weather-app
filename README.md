@@ -11,5 +11,4 @@ A simple weather app built with HTML, CSS, and JavaScript. It fetches weather da
 ![screenshot](screenshot.png) <!-- optional: add image later -->
 
 ## How to Use# weather-app
-1. Clone the repo:
-Simple weather app using Openweather APi
+
